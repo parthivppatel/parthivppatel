@@ -51,7 +51,3 @@ Currently focusing on **Placemate – a Placement Management System** to streaml
 ## 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parthiv-patel-71941822a/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parthivp800@gmail.com)
-
----
-
-![Profile views](https://komarev.com/ghpvc/?username=parthivppatel&color=blue)
